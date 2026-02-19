@@ -1,0 +1,11 @@
+{
+  "status": "ok",
+  "message": "Signup processed",
+  "data": {
+    "user_id": 2041,
+    "email": "student.one@school.edu.bh",
+    "plan": "edu",
+    "welcome_email_subject": "Welcome to the edu plan!"
+  },
+  "errors": []
+}

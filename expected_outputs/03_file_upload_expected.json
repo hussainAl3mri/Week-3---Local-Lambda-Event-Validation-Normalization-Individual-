@@ -1,0 +1,12 @@
+{
+  "status": "ok",
+  "message": "Upload processed",
+  "data": {
+    "file_name": "project_report.pdf",
+    "size_bytes": 2450120,
+    "bucket": "ncst-uploads",
+    "uploader": "student.one@school.edu.bh",
+    "storage_class": "STANDARD_IA"
+  },
+  "errors": []
+}

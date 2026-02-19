@@ -1,0 +1,13 @@
+{
+  "status": "ok",
+  "message": "Payment processed",
+  "data": {
+    "payment_id": "pay_a14v2jgbc8",
+    "user_id": 2041,
+    "amount": 12.75,
+    "currency": "BHD",
+    "fee": 0.255,
+    "net_amount": 12.495
+  },
+  "errors": []
+}
